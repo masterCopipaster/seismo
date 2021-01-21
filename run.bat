@@ -1,0 +1,1 @@
+ipython "seismo 1.py"
